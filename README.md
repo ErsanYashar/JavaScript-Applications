@@ -9,4 +9,6 @@ With "JavaScript Applications" students will learn what HTTP requests are and ho
 - Create simple Single Page applications.
 - Working with REST API and asynchronous programming.
 - Working with templates and routing.
-- Аpplication testing.
+. Аpplication testing.
+
+
